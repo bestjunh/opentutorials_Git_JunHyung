@@ -1,16 +1,11 @@
-<html>
+﻿<html>
 	<body>
 		<header>
 			<h1>Git</h1>
 		<header>
 		<u1>
 			<li>definite</li>
-			more
-			more more
-<<<<<<< HEAD
-=======
-			enter Title
->>>>>>> 실험적
+			enter Title by 실험2
 		</u1>
 
 	</body>
