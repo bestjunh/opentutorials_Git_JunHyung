@@ -7,6 +7,10 @@
 			<li>definite</li>
 			more
 			more more
+<<<<<<< HEAD
+=======
+			enter Title
+>>>>>>> 실험적
 		</u1>
 
 	</body>
