@@ -6,6 +6,8 @@
 		<u1>
 			<li>definite</li>
 			egoing1 egoing1egoing1
+			egoing2
+			egoing1
 			enter Title by Master
 			enter Title by 실험2
 			충돌지점1
